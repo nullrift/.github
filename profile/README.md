@@ -1,5 +1,4 @@
-# NullRift
-
+<img src="../branding/LogoWithText.png" alt="NullRift Banner" />
 A one-person dev organization because "personal account" felt too casual and "LLC" felt too ambitious.
 
 
@@ -41,6 +40,9 @@ pnpm run dev
 MIT. Use it, fork it, learn from it.  
 Just don't blame me if something breaks.
 
+---
+
+<img src="../branding/Banner.png" alt="NullRift Banner" />
 <p align="center">
   <sub>Built by one person who probably should have gone to sleep earlier.</sub>
 </p>
