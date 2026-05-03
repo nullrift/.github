@@ -1,4 +1,5 @@
-<img src="../branding/LogoWithText.png" alt="NullRift Banner" />
+<img src="../branding/LogoWithText.png" width="500" height="300" alt="NullRift Banner" />
+
 A one-person dev organization because "personal account" felt too casual and "LLC" felt too ambitious.
 
 
