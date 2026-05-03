@@ -1,4 +1,4 @@
-<img src="../branding/LogoWithText.png" width="500" height="300" alt="NullRift Banner" />
+<img src="../branding/LogoWithText.png" width="500" height="120" alt="NullRift Banner" />
 
 A one-person dev organization because "personal account" felt too casual and "LLC" felt too ambitious.
 
@@ -9,8 +9,8 @@ NullRift is the cover name for my personal development projects. Right now that'
 
 The name comes from two ideas I keep coming back to:
 
-- **Null** — zero ads, zero bloat, zero unnecessary complexity
-- **Rift** — breaking from whatever the default assumption was
+- **Null** - zero ads, zero bloat, zero unnecessary complexity
+- **Rift** - breaking from whatever the default assumption was
 
 ## How I Work
 
@@ -20,7 +20,7 @@ The name comes from two ideas I keep coming back to:
 
 ## Security Issues
 
-If you find something broken please tell me before the internet does.
+If you find something broken, please tell me before the internet does.
 
 Open an issue or reach out directly. No bug bounty, but you'll get genuine appreciation and your name in a comment somewhere meaningful.
 
@@ -41,8 +41,7 @@ pnpm run dev
 MIT. Use it, fork it, learn from it.  
 Just don't blame me if something breaks.
 
----
-
+##
 <img src="../branding/Banner.png" alt="NullRift Banner" />
 <p align="center">
   <sub>Built by one person who probably should have gone to sleep earlier.</sub>
