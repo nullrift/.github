@@ -41,8 +41,6 @@ pnpm run dev
 MIT. Use it, fork it, learn from it.  
 Just don't blame me if something breaks.
 
----
-
 <p align="center">
   <sub>Built by one person who probably should have gone to sleep earlier.</sub>
 </p>
